@@ -4,6 +4,6 @@ Simple Calculator app made following Code With Cal tutorial. Includes calculator
 
 The Calculator supports mathematical computation by utilizing UI buttons, "All Clear" and "Delete" buttons are also included and fully functional.
 
-<img src="/resources/Screenshots/Calculator_Screen_Shot.png" alt="" style="width: 200px; height: 200px;">
+<img src="/resources/Screenshots/Calculator_Screen_Shot.png" alt="" style="width: 200px; height: 400px;">
 
 Runs on XCode Simulator and iOS devices.
